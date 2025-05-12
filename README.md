@@ -16,9 +16,7 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@v3l0p1ng/posts)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingify&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingify&repo=convoychat" />
-</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingify&repo=github-readme-stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingify&repo=convoychat" />
+
