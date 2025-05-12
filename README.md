@@ -1,8 +1,8 @@
-### 👨‍💻 About Me
-- 🎓 University student  
-- 🔧 Java Backend Engineer focusing on Spring ecosystem  
+### About me
+-  University student  
+-  Java Backend Engineer focusing on Spring ecosystem  
 
-### 🛠 Tech Stack
+### Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
@@ -17,6 +17,6 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingify&repo=github-readme-stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingify&repo=convoychat" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingify&repo=github-readme-stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingify&repo=convoychat" />
 
