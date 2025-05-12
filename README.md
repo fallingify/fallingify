@@ -7,5 +7,7 @@
 <br> 
 
 ###  GitHub Stats
-![fallingify's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallingify&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingify&layout=compact&theme=transparent)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fallingify&show_icons=true&theme=transparent" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallingify&layout=compact&theme=transparent" height="180px"/>
+</div>
