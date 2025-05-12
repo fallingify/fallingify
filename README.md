@@ -1,5 +1,5 @@
 #### About me
--  Java Backend Engineer focusing on Spring ecosystem  
+Java Backend Engineer focusing on Spring ecosystem  
 
 #### Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
