@@ -1,5 +1,4 @@
 #### About me
--  Student  
 -  Java Backend Engineer focusing on Spring ecosystem  
 
 #### Tech Stack
