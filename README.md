@@ -1,5 +1,6 @@
 #### About me
 Java Backend Engineer focusing on Spring ecosystem  
+<br>
 
 #### Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -12,8 +13,10 @@ Java Backend Engineer focusing on Spring ecosystem
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@v3l0p1ng/posts)
-
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<br>
 
 #### Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
