@@ -1,4 +1,5 @@
-### Backend Engineer
+### About me
+Java backend engineer
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -6,8 +7,5 @@
 
 <br> 
 
-###  GitHub Stats
-
-  <img src="https://github-readme-stats.vercel.app/api?username=fallingify&show_icons=true&theme=transparent" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallingify&layout=compact&theme=transparent" height="180px"/>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fallingify&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingify&layout=compact&theme=transparent&card_width=445)
