@@ -1,8 +1,8 @@
-### About me
--  University student  
+#### About me
+-  Student  
 -  Java Backend Engineer focusing on Spring ecosystem  
 
-### Tech Stack
+#### Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
@@ -16,4 +16,5 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@v3l0p1ng/posts)
 
 
+#### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
