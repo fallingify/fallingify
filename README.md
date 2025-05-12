@@ -1,5 +1,5 @@
 #### About me
-Java Backend Engineer focusing on Spring ecosystem  
+- Java Backend Engineer specializing in Spring Boot, JPA, and cloud-native backend development
 <br>
 
 #### Tech Stack
