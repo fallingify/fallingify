@@ -16,7 +16,4 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@v3l0p1ng/posts)
 
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingify&repo=github-readme-stats" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingify&repo=convoychat" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
