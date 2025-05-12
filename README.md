@@ -13,13 +13,12 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-### 📝 Blog
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@v3l0p1ng/posts)
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fallingify&show_icons=true&theme=transparent" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallingify&layout=compact&theme=transparent" width="49%"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingify&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingify&repo=convoychat" />
+</a>
