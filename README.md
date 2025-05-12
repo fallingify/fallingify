@@ -19,4 +19,5 @@ Java Backend Engineer focusing on Spring ecosystem
 <br>
 
 #### Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingify&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingify&layout=compact&theme=transparent&hide=cmake,html,css&exclude_repo=boj-java,c-practice&langs_count=5)
+
